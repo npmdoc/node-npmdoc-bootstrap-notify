@@ -1,4 +1,7 @@
-# api documentation for  [bootstrap-notify (v3.1.3)](http://bootstrap-notify.remabledesigns.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-bootstrap-notify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bootstrap-notify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bootstrap-notify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bootstrap-notify)
+# npmdoc-bootstrap-notify
+
+#### api documentation for  [bootstrap-notify (v3.1.3)](http://bootstrap-notify.remabledesigns.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-bootstrap-notify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bootstrap-notify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bootstrap-notify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bootstrap-notify)
+
 #### This is a simple plugin that turns standard Bootstrap alerts into "Growl-like" notifications.
 
 [![NPM](https://nodei.co/npm/bootstrap-notify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bootstrap-notify)
